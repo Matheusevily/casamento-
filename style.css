@@ -495,4 +495,28 @@ text-align:center;
 
 }
 
+.btn,
+.btn-outline{
+
+    width:100%;
+
+    text-align:center;
+
 }
+
+/* Cole aqui ↓↓↓ */
+
+.btn-instagram {
+    display: inline-block;
+    background: #E1306C;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn-instagram:hover {
+    background: #C13584;
+}}
